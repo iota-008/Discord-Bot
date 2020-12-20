@@ -1,0 +1,8 @@
+{"python.autoComplete.extraPaths": [
+    "C:\\Users\\iota\\Desktop\\VScodes\\project\\Discord Bot\\MyBot.py"
+],
+"python.analysis.extraPaths": [
+    "C:\\Users\\iota\\Desktop\\VScodes\\project\\Discord Bot\\MyBot.py"
+],
+"git.ignoreLimitWarning": true
+}
